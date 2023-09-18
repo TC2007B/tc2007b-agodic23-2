@@ -19,10 +19,10 @@
 | 1           | Introducción a Kotlin/Swift | [Laboratorio](/mobile/labs/1_intro_kotlin.md)                 | [Laboratorio](/mobile/ios/1_intro_swift.md)                                         |
 | 2           | Primera App en Kotlin/Swift |                                                               | [Storyboad](/mobile/ios/1_bases/storyboard/) [SwiftUI](/mobile/ios/1_bases/swiftui) |
 | 3           | Modelos y Listas            | [Laboratorio](/mobile/labs/3_data_classes_y_recyclerview.md)  | [Laboratorio](/mobile/ios/2_modelos_y_listas.md)                                    |
-| 4           | Consumiendo APIs            | [Laboratorio](/mobile/labs/4_consumiendo_apis.md)             |
-| 5           | Arquitectura de Proyectos   | [Laboratorio](/mobile/labs/5_arquitectura_mvvm.md)            |
-| 6           | Desarrollo Avanzado y UI    | [Laboratorio](/mobile/labs/6_fragmentos_y_material_design.md) |
-
+| 4           | Consumiendo APIs            | [Laboratorio](/mobile/labs/4_consumiendo_apis.md)             | [Laboratorio](/mobile/ios/4_consumiendo_apis.md)                                    |
+| 5           | Arquitectura de Proyectos   | [Laboratorio](/mobile/labs/5_arquitectura_mvvm.md)            | [Laboratorio](/mobile/ios/5_arquitectura_mvvm.md)                                   |
+| 6           | Desarrollo Avanzado y UI    | [Laboratorio](/mobile/labs/6_fragmentos_y_material_design.md) | [Laboratorio](/mobile/ios/6_advanced_ui.md)                                         |
+ 
 ## Como empezar
 ### Para la clase necesitarás lo siguiente:
 
@@ -43,6 +43,14 @@
 
 ### Documentación oficial iOS
 - [Documentación Oficial](https://developer.apple.com/develop/)
+- **Ray Wenderlych** es uno de los iOS developers más conocidos encontrarás muchos tutoriales que te puedan ayudar en la página de [Kodeco](https://www.kodeco.com/ios/paths)
+- [SwiftBeta](https://www.swiftbeta.com) Tutoriales de swift
+- [Unit Testing with Protocols](https://m25lazi.medium.com/unit-testing-swift-code-with-protocols-7aa0b8d7816d) Te dejo un link con un ejemplo de testing con protocolos.
+- [Dependency Injection with Alamofire](https://www.avanderlee.com/swift/mocking-alamofire-urlsession-requests/)
+- [Introduction to Unit Testing](https://www.avanderlee.com/swift/unit-tests-best-practices/)
+- [Property Wrappers](https://www.thoughtworks.com/es-cl/insights/blog/mobile/guia-para-entender-los-property-wrappers-en-swiftui)
+- [AppStore Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
 
 ### Materiales de Consulta
 - El mundo de Android se mueve muy rápido si bien existe bibliografía al respecto te recomiendo más que busques en artículos, la documentación oficial o con algunos expertos GDE (Google Developer Expert).

@@ -1,4 +1,4 @@
-# Data Classes y RecyclerView
+# Modelos y List
 
 ## Objetivo
 

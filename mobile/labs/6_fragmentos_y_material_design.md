@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-En este laboratorio aprenderemos sobre la comunicació de los Activities, el uso de Fragmentos, y un poco sobre reglas de Material Design y de UI en Android.
+En este laboratorio aprenderemos sobre la comunicación de los Activities, el uso de Fragmentos, y un poco sobre reglas de Material Design y de UI en Android.
 
 Para este laboratorio vamos a continuar el desarrollo del Pokedex que hemos venido realizando hasta ahora.
 
@@ -626,7 +626,7 @@ Y dentro de la vista principal de la lista de Pokemon notaremos un pequeño camb
 
 Como modificamos el **theme** ya vemos el rojo definido para la aplicación.
 
-Pues con sto hemos concluido el trabajo de la historia de usuario del **Splashscreen**.
+Pues con esto hemos concluido el trabajo de la historia de usuario del **Splashscreen**.
 
 ~~- Como usuario al entrar a la aplicación quiero ver una vista de inicio antes de usar la aplicación para sentir una experiencia de uso.~~
 - Como usuario quiero poder elegir entre la lista del Pokedex o poder realizar una búsqueda específica por nombre de Pokemon.

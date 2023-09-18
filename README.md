@@ -7,7 +7,6 @@
 ## Plan de Evaluación Reto
 
 
-
 ### **Total de la calificación Final: 47%**
 
 
