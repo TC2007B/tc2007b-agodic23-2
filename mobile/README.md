@@ -17,7 +17,7 @@
 | Laboratorio | Tema                        | Android                                                       | iOS                                                                                 |
 | ----------- | --------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | 1           | Introducción a Kotlin/Swift | [Laboratorio](/mobile/labs/1_intro_kotlin.md)                 | [Laboratorio](/mobile/ios/1_intro_swift.md)                                         |
-| 2           | Primera App en Kotlin/Swift |                                                               | [Storyboad](/mobile/ios/1_bases/storyboard/) [SwiftUI](/mobile/ios/1_bases/swiftui) |
+| 2           | Primera App en Kotlin/Swift |                                                               | [Storyboad](/mobile/ios/1_bases/storyboard/) / [SwiftUI](/mobile/ios/1_bases/swiftui) |
 | 2.5         | Interfaces en SwiftUI       |                                                               | [Laboratorio](/mobile/ios/1_bases/1.5_intro_swiftui.md)                             |
 | 3           | Modelos y Listas            | [Laboratorio](/mobile/labs/3_data_classes_y_recyclerview.md)  | [Laboratorio](/mobile/ios/2_modelos_y_listas.md)                                    |
 | 4           | Consumiendo APIs            | [Laboratorio](/mobile/labs/4_consumiendo_apis.md)             | [Laboratorio](/mobile/ios/4_consumiendo_apis.md)                                    |
