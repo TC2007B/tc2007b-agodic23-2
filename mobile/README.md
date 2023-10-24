@@ -30,7 +30,7 @@
 | 1           | Introducción a No Relacional  | |[Introducción]([/mobile/labs/1_intro_kotlin.md](https://docs.google.com/presentation/d/1BZxev_YBdFlUwLAh812q40-Tk1chma4ynZ6Sw-Uv4LQ/edit?usp=sharing))                 | 
 | 2           | MongoDB CheatSheet de Kyle Web Dev Simplified  | |[RAR](/mobile/mongodb/MongoDB%20Cheat%20Sheet.zip)                 | 
 | 3           | MongoDB Crash Course | [Laboratorio](/mobile/mongodb/1_mongodb_crash_course.md) |[Video YouTube](https://www.youtube.com/watch?v=ofme2o29ngU) |
-| 4           | Mongoose Crash Course | |[Video YouTube](https://www.youtube.com/watch?v=DZBGEVgL2eE)
+| 4           | Mongoose Crash Course | [Laboratorio](/mobile/mongodb/2_mongoose_crash_course.md) |[Video YouTube](https://www.youtube.com/watch?v=DZBGEVgL2eE)
 
 ## Como empezar
 ### Para la clase necesitarás lo siguiente:
