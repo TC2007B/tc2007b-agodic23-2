@@ -6,7 +6,7 @@ En este laboratorio aprenderemos los básicos de la Base de Datos No Relacional 
 
 En este laboratorio vamos a explorar los comandos básicos del levantamiento de la Base de Datos, así como algunas herramientas útiles de libre acceso que puedes utilizar para mejorar tu experiencia con esta Base de Datos.
 
-**Nota: Como recomendación, si ya tienes conocimiento en Bases de Datos Relacionales, no tires tu conocimiento y experiencia, lo mejor de las nuevas Bases de Datos es un enfoque híbrido que utiliza lo mejor de ambos mundo para atacar el principal problema: modelar y presentar información de la manera más rápida y profunda posible.**
+**Nota: Como recomendación, si ya tienes conocimiento en Bases de Datos Relacionales, no tires tu conocimiento y experiencia, lo mejor de las nuevas Bases de Datos es un enfoque híbrido que utiliza lo mejor de ambos mundos para atacar el principal problema: modelar y presentar información de la manera más rápida y profunda posible.**
 
 ## Instrucciones
 
