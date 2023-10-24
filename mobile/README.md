@@ -25,11 +25,11 @@
 | 6           | Desarrollo Avanzado y UI    | [Laboratorio](/mobile/labs/6_fragmentos_y_material_design.md) | [Laboratorio](/mobile/ios/6_advanced_ui.md)                                         |
  
 ## Materiales No SQL
-| Material    | Tema   | Recurso |
-| ----------- | -------| --------  |
-| 1           | Introducción a No Relacional  | [Introducción]([/mobile/labs/1_intro_kotlin.md](https://docs.google.com/presentation/d/1BZxev_YBdFlUwLAh812q40-Tk1chma4ynZ6Sw-Uv4LQ/edit?usp=sharing))                 | 
-| 2           | MongoDB Crash Course | [Video YouTube](https://www.youtube.com/watch?v=ofme2o29ngU) |
-| 3           | Mongoose Crash Course | [Video YouTube](https://www.youtube.com/watch?v=DZBGEVgL2eE)
+| Material    | Tema   | Laboratorio | Recurso |
+| ----------- | -------| --------   |--------  |
+| 1           | Introducción a No Relacional  | |[Introducción]([/mobile/labs/1_intro_kotlin.md](https://docs.google.com/presentation/d/1BZxev_YBdFlUwLAh812q40-Tk1chma4ynZ6Sw-Uv4LQ/edit?usp=sharing))                 | 
+| 2           | MongoDB Crash Course | [Laboratorio](/mobile/mongodb/1_mongodb_crash_course.md) |[Video YouTube](https://www.youtube.com/watch?v=ofme2o29ngU) |
+| 3           | Mongoose Crash Course | |[Video YouTube](https://www.youtube.com/watch?v=DZBGEVgL2eE)
 
 ## Como empezar
 ### Para la clase necesitarás lo siguiente:
